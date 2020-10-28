@@ -34,6 +34,9 @@ Work in Progress pull requests are also welcome to get feedback early on, or if 
 
 ## Resources
 
+- [Probot documentation](https://probot.github.io/)
+- [Octokit documentation](https://octokit.github.io/rest.js/)
+
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
