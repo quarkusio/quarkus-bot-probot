@@ -79,10 +79,14 @@ If the rule is triggered, the following action will be executed:
 
 ### Affect milestones
 
-When a pull request is merged, it affects the milestone ending with ` - master` to the pull request and the issues resolved by the pull request (e.g. `Fixes #1234`).
+When a pull request is merged, if it targets the `master` branch, it affects the milestone ending with ` - master` to the pull request and the issues resolved by the pull request (e.g. `Fixes #1234`).
 
 It only affects the milestone is no milestone has been affected prior to the merge.
 If the milestone cannot be affected, we add a comment to the pull request indicating the items for which we haven't affected the milestone.
+
+### Mark closed pull requests as invalid
+
+If a pull request is closed without being merged, we automatically add the `triage/invalid` label to the pull request.
 
 ## Contributing
 
