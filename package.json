@@ -18,6 +18,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "micromatch": "^4.0.2",
     "probot": "^10.1.0"
   },
   "devDependencies": {
