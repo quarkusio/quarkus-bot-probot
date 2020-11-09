@@ -96,4 +96,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2020 Guillaume Smet <guillaume.smet@gmail.com>
+[ISC](LICENSE) © 2020 The Quarkus Team - https://quarkus.io/
