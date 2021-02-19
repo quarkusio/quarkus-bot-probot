@@ -1,3 +1,5 @@
+**⚠ This project has been replaced by a Quarkus-based bot: https://github.com/quarkusio/quarkus-bot-java ⚠**
+
 # quarkus-bot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that helps to maintain the Quarkus project.
